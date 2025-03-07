@@ -9,7 +9,7 @@ const App = () => {
       {/* <Counter /> */}
       {/* <Todo /> */}
       {/* <Meals /> */}
-      <Calculator />
+      {/* <Calculator /> */}
     </>
   );
 };
